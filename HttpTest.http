@@ -19,6 +19,7 @@ Content-Type: application/json
 
 {
   "name": "test2",
+  "phoneNum": "18628393484",
   "password": "test2"
 }
 
@@ -28,6 +29,7 @@ Content-Type: application/json
 
 {
   "name": "test2",
+  "phoneNum": "18628393484",
   "password": "test2"
 }
 
